@@ -1,3 +1,6 @@
 # main files
 .metals/
 .vscode/
+# output tarjet 
+project/target/
+target/
