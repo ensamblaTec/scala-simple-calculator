@@ -1,0 +1,5 @@
+# Simple Calculator
+
+## Language
+
+Scala
